@@ -15,7 +15,6 @@ export default function PublicLayout({
     <div
       className={`${suse.className} min-h-screen bg-b-primary text-t-main p-4`}
     >
-      <h1>Public</h1>
       {children}
     </div>
   );
